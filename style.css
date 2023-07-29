@@ -1,10 +1,14 @@
 body{
-    background-image: url(https://images.unsplash.com/photo-1683009427513-28e163402d16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+    background-image: url(https://images.unsplash.com/photo-1690537371861-8f047b7eaa21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80);
+    background-size: cover;
+    
     opacity: 0.8;
 }
 h1{
     color: red;
 }
+
+
 h2{
     color: blue;
 }
@@ -12,10 +16,11 @@ h2 p{
     color: yellow;
 }
 p{
-    color: green;
+    color: rgb(59, 199, 59);
 }
+
 #newpage{
-    color: red;
+    color: rgb(39, 183, 147);
     border:2px dashed black; 
 }
 .section>a{
@@ -31,7 +36,7 @@ a:hover{
     cursor: pointer;
 }
 span{
-    color: red;
+    color:white;
 }
 .image1{
     float: left;
@@ -41,16 +46,16 @@ span{
  margin: 0%;
  padding: 0%;
 }
-.nav>a{
-    color: purple;
-    display: block;
-    width: 50px;
-}
+
 footer{
     color: red;
     border: 2px dashed black;
 }
 li{
     color: white;
-    list-style-type: none;
 }
+a{
+    color: white;
+}
+
+
